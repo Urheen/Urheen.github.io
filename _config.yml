@@ -21,7 +21,7 @@ repository               : "Urheen/Urheen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile00.jpg"
+  avatar           : "profile3.jpg"
   name             : "Ziyan Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Machine Learning at Georgia Tech. LLM Reasoning, Generative Models, Domain Adaptation, Imbalanced Learning."
