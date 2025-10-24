@@ -24,7 +24,7 @@ author:
   avatar           : "profile3.jpg"
   name             : "Ziyan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Machine Learning at Georgia Tech. LLM Reasoning, Generative Models, Domain Adaptation, Imbalanced Learning."
+  bio              : "Ph.D. candidate in Machine Learning at Georgia Tech"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : "https://urheen.github.io" # URL
@@ -210,7 +210,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -219,7 +219,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
